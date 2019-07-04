@@ -1,3 +1,4 @@
+#Data repository accompanying the paper "Numerical benchmark for flow in highly heterogeneous aquifers" by Cristian D. Alecsa, Imre Boros, Florian Frank, Peter Knabner, Flavius O. Pătrulescu, Alexander Prechtel, Andreas Rupp, Nicolae Suciu
 
 This is a data repository accompanying the paper "Numerical benchmark for flow in highly heterogeneous aquifers"
 by Cristian D. Alecsa, Imre Boros, Florian Frank, Peter Knabner, Flavius O. Pătrulescu, Alexander Prechtel,
@@ -13,18 +14,18 @@ The benchmark contains one- and two-dimensional flow problems with coefficients 
 random space functions log-normally distributed, with exponential and Gaussian correlations. All necessary data
 files and computing codes are contained in the following folders:
 
-Manufactured_Solutions
-	- 1D and 2D analytical solutions and corresponding boundary conditions, coefficient functions, and source
-	  terms occurring in the right-hand side of the homogeneous pressure equation
-	- text files containing numerical coefficients of the analytical coefficient and source functions
-	- C++ and Matlab codes used to construct coefficients and source terms
+##Manufactured_Solutions
+	1. __1D and 2D analytical solutions and corresponding boundary conditions, coefficient functions, and source
+	  terms occurring in the right-hand side of the homogeneous pressure equation__
+	2. __text files containing numerical coefficients of the analytical coefficient and source functions__
+	3. __C++ and Matlab codes used to construct coefficients and source terms__
 
-K-field_generators
-	- C and Matlab codes to generate realizations of random hydraulic conductivity coefficients
+##K-field_generators
+	C and Matlab codes to generate realizations of random hydraulic conductivity coefficients
 
 
-Numerical_Coefficients
-	- C codes used to compute the numerical coefficients of the analytical coefficients an source functions
+##Numerical_Coefficients
+	C codes used to compute the numerical coefficients of the analytical coefficients an source functions
 
 
 
