@@ -14,15 +14,14 @@ The benchmark contains one- and two-dimensional flow problems with coefficients 
 random space functions log-normally distributed, with exponential and Gaussian correlations. All necessary data
 files and computing codes are contained in the following folders:
 
-## Manufactured Solutions:
+## K-field generators
+C and Matlab codes to generate realizations of random hydraulic conductivity coefficients
+
+## Manufactured Solutions
 
 1. 1D and 2D analytical solutions and corresponding boundary conditions, coefficient functions, and source terms occurring in the right-hand side of the homogeneous pressure equation
 2. text files containing numerical coefficients of the analytical coefficient and source functions
 3. C++ and Matlab codes used to construct coefficients and source terms
-
-## K-field generators
-C and Matlab codes to generate realizations of random hydraulic conductivity coefficients
-
 
 ## Numerical Coefficients
 C codes used to compute the numerical coefficients of the analytical coefficients an source functions
