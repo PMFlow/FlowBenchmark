@@ -24,7 +24,7 @@ C and Matlab codes to generate realizations of random hydraulic conductivity coe
 3. C++ and Matlab codes used to construct coefficients and source terms
 
 ## Numerical Coefficients
-C codes used to compute the numerical coefficients of the analytical coefficients an source functions
+C codes used to compute the numerical coefficients of the analytical coefficients and source functions
 
 
 ## 
