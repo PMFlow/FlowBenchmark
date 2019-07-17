@@ -1,4 +1,4 @@
-## K-field generators:
+## K-field generators
 
 "calc_K_2018-exp-lambda.c" is a function to generate realizations of  K-field with exponential correlation.
 
@@ -9,7 +9,7 @@ OUT[1] returns the hydraulic conductivity value K
        at the point of coordinates IN[0] and IN[1].
 
 
-## Tests:
+## Tests
 
 The following codes illustrate the use of the random field generators:
 
@@ -22,7 +22,7 @@ The following codes illustrate the use of the random field generators:
 
 
 
-## NOTE:
+## Note:
 These codes use 
 #include<random> // C++ library for random generated numbers
 and have to be compiled with a "-std" option, e.g.
@@ -30,4 +30,4 @@ and have to be compiled with a "-std" option, e.g.
 code_name.cpp -std=gnu++11
 
 ##
-### Date: 09.03.2019
+#### Date: 09.03.2019
