@@ -15,9 +15,10 @@ The following codes illustrate the use of the random field generators:
 "exp_K-field_grid.cpp" computes a realization of K-field with exponential correlation in the folder "expK".
 "Gss_K-field_grid.cpp" computes a realization of K-field with Gaussian  correlation in the folder "gssK".
 
+##
 "test_corr-exp_K-field_grid.cpp" and "test_corr-exp_K-field_grid.cpp" estimate correlation functions and 
 		       correlation lengths of lnK fields and write results in folders "corrE" and "corrG".
-
+##
 
 
 ## Note:
