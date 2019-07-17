@@ -4,9 +4,9 @@
 
 "calc_K_2018-Gss-lambda.c" is a function to generate realizations of  K-field with Gaussian correlation.
 
-OUT[0] returns the value of lnK
-OUT[1] returns the hydraulic conductivity value K
-       at the point of coordinates IN[0] and IN[1].
+OUT[0] returns the value of lnK.
+
+OUT[1] returns the hydraulic conductivity value K at the point of coordinates IN[0] and IN[1].
 
 
 ## Tests
