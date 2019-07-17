@@ -14,7 +14,6 @@ Numerical computations of K-fields and source terms f with C++ and Matlab codes 
 "Matlab", respectively.
 
 ##                 
-### Date 
-09.03.2019 
+#### Date: 09.03.2019 
 
 
