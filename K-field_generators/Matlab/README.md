@@ -20,4 +20,4 @@
 	           To generate lnK fields, comment the last line and uncomment the last but one line in "Kraichnan_func.m". 
 
 ##
-#### Date: 09.03.2019             
+#### Date: 09.03.2019            
