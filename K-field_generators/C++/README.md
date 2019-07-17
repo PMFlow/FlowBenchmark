@@ -1,7 +1,6 @@
 ## K-field generators
 
 "calc_K_2018-exp-lambda.c" is a function to generate realizations of  K-field with exponential correlation.
-
 "calc_K_2018-Gss-lambda.c" is a function to generate realizations of  K-field with Gaussian correlation.
 
 OUT[0] returns the value of lnK
@@ -14,7 +13,6 @@ OUT[1] returns the hydraulic conductivity value K
 The following codes illustrate the use of the random field generators:
 
 "exp_K-field_grid.cpp" computes a realization of K-field with exponential correlation in the folder "expK".
-
 "Gss_K-field_grid.cpp" computes a realization of K-field with Gaussian  correlation in the folder "gssK".
 
 "test_corr-exp_K-field_grid.cpp" and "test_corr-exp_K-field_grid.cpp" estimate correlation functions and 
