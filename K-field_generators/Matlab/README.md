@@ -14,7 +14,7 @@
 ## Tests
 
 "test_Kraichnan_K_field.m" illustrates the use of the random field generators by computing realizations of log-normal
-	           K-fields with exponetial and Gaussian correlations
+	           K-fields with exponetial and Gaussian correlations.
 
 "corr_Kraichnan_Kfield.m" estimates correlations and correlation lengths of lnK fields by ensemble and spatial averages.
 	           To generate lnK fields, comment the last line and uncomment the last but one line in "Kraichnan_func.m". 
