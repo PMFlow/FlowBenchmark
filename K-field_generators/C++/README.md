@@ -25,7 +25,7 @@ The following codes illustrate the use of the random field generators:
 ## Note:
 These codes use 
 #include<random> // C++ library for random generated numbers
-and have to be compiled with a "-std" option, e.g.
+and have to be compiled with a "-std" option, e.g.,
 
 code_name.cpp -std=gnu++11
 
