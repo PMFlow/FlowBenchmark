@@ -7,10 +7,11 @@ The latter, are generated for Nmod=10000 random periodic modes and stored as tex
 "coeffGauss".
 
 
-## NOTE:
+## Note:
 The codes "coeffExp.c" and "coeffGauss.c" use #include<random> /* C++ library for random generated numbers */ 
-and have to be compiled with a "-std" option, e.g.
+and have to be compiled with a "-std" option, e.g.,
+  
 code_name.c -std=gnu++11
 
-## Date 
-09.03.2019
+##
+#### Date: 09.03.2019
