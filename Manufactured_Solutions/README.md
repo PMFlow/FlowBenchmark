@@ -9,7 +9,7 @@ Nmod=[100, 1000, 10000], with wavenumbers and phases read from text files (see c
 
 K-fields for each particular cases used in this benchmark are obtained by specifying input parameters "varK" and "Nmod".
 
-## K-field generation
+## K-fields and source terms
 Numerical computations of K-fields and source terms f with C++ and Matlab codes are illustrated in folders "C++" and
 "Matlab", respectively.
 
