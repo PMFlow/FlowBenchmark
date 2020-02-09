@@ -1,7 +1,7 @@
 # Data repository accompanying the paper "Numerical benchmark for flow in highly heterogeneous aquifers" by Cristian D. Alecsa, Imre Boros, Florian Frank, Peter Knabner, Mihai Nechita, Alexander Prechtel, Andreas Rupp, Nicolae Suciu
 
 This is a data repository accompanying the paper "Numerical benchmark for flow in highly heterogeneous aquifers"
-by Cristian D. Alecsa, Imre Boros, Florian Frank, Peter Knabner, Flavius O. Pătrulescu, Alexander Prechtel,
+by Cristian D. Alecsa, Imre Boros, Florian Frank, Peter Knabner, Mihai Nechita, Alexander Prechtel,
 Andreas Rupp, Nicolae Suciu.
 
 
