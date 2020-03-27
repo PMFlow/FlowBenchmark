@@ -1,8 +1,8 @@
-# Data repository accompanying the paper "Numerical benchmark for flow in highly heterogeneous aquifers" by Cristian D. Alecsa, Imre Boros, Florian Frank, Peter Knabner, Mihai Nechita, Alexander Prechtel, Andreas Rupp, Nicolae Suciu
+# Data repository accompanying the paper "Numerical benchmark study for flow in highly heterogeneous aquifers" by Cristian D. Alecsa, Imre Boros, Florian Frank, Peter Knabner, Mihai Nechita, Alexander Prechtel, Andreas Rupp, Nicolae Suciu
 
-This is a data repository accompanying the paper "Numerical benchmark for flow in highly heterogeneous aquifers"
+This is a data repository accompanying the paper "Numerical benchmark study for flow in highly heterogeneous aquifers"
 by Cristian D. Alecsa, Imre Boros, Florian Frank, Peter Knabner, Mihai Nechita, Alexander Prechtel,
-Andreas Rupp, Nicolae Suciu.
+Andreas Rupp, Nicolae Suciu (https://doi.org/10.1016/j.advwatres.2020.103558).
 
 
 
