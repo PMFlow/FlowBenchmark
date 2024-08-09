@@ -47,20 +47,20 @@ for m = 1 : length(varK)
             save(['realiz_V_Exp\Vxy_Exp_',num2str(m),'V_',num2str(n),'.mat'],'Vx','Vy');
         end
     end
-            fprintf('Number of realiz : %d \n',m) ;
+            fprintf('Index of variance varK : %d \n',m) ;
 end
 end
 toc ;
 
 % main_realizations_lin_velocity
-% Number of realiz : 1 
-% Number of realiz : 2 
-% Number of realiz : 3 
-% Number of realiz : 4 
-% Number of realiz : 5 
-% Number of realiz : 1 
-% Number of realiz : 2 
-% Number of realiz : 3 
-% Number of realiz : 4 
-% Number of realiz : 5 
+% Index of variance varK : 1 
+% Index of variance varK : 2 
+% Index of variance varK : 3 
+% Index of variance varK : 4 
+% Index of variance varK : 5 
+% Index of variance varK : 1 
+% Index of variance varK : 2 
+% Index of variance varK : 3 
+% Index of variance varK : 4 
+% Index of variance varK : 5 
 % Elapsed time is 59.473140 seconds.
