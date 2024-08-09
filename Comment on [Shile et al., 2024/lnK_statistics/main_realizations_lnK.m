@@ -47,5 +47,19 @@ for m = 1 : length(varK)
             fprintf('Index of variance varK : %d \n',m) ;
 end
 end
-toc ;
+toc 
+
+% main_realizations_lnK
+% Index of variance varK : 1 
+% Index of variance varK : 2 
+% Index of variance varK : 3 
+% Index of variance varK : 4 
+% Index of variance varK : 5 
+% Index of variance varK : 1 
+% Index of variance varK : 2 
+% Index of variance varK : 3 
+% Index of variance varK : 4 
+% Index of variance varK : 5 
+% Elapsed time is 58.332692 seconds.
+
 
