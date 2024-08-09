@@ -44,7 +44,7 @@ for m = 1 : length(varK)
             save(['realizExp\varK_Exp_',num2str(m),'lnK_',num2str(n),'.mat'],'lnK');
         end
     end
-            fprintf('Number of varK : %d \n',m) ;
+            fprintf('Index of variance varK : %d \n',m) ;
 end
 end
 toc ;
