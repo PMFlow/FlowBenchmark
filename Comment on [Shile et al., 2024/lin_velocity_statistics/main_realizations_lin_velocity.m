@@ -50,7 +50,7 @@ for m = 1 : length(varK)
             fprintf('Index of variance varK : %d \n',m) ;
 end
 end
-toc ;
+toc 
 
 % main_realizations_lin_velocity
 % Index of variance varK : 1 
