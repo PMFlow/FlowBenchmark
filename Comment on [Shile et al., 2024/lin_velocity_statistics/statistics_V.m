@@ -74,11 +74,11 @@ errorbar(varK,rvyy,srvyy,'-*');
 xlabel('\sigma^{2}'); ylabel('variance(Vy)');
 legend('\sigma^{2}_{lnK}','Location','northwest'); legend('boxoff');
 
-if icorr==0
-    save('VGauss','varK','rmxx','srmxx','rvxx','srvxx','rmyy','srmyy','rvyy','srvyy');
-else    
-    save('VExp','varK','rmxx','srmxx','rvxx','srvxx','rmyy','srmyy','rvyy','srvyy');
-end
+% if icorr==0
+%     save('VGauss','varK','rmxx','srmxx','rvxx','srvxx','rmyy','srmyy','rvyy','srvyy');
+% else    
+%     save('VExp','varK','rmxx','srmxx','rvxx','srvxx','rmyy','srmyy','rvyy','srvyy');
+% end
 
 format shortE
 sigma2=varK';
